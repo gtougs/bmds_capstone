@@ -1,0 +1,51 @@
+{
+  "numerical_cols": [
+    "age",
+    "amount_of_water's_litres_drink_every_day",
+    "gramme_of_chocolate_eaten_in__a_day",
+    "vhi_score",
+    "rsi_score",
+    "cigarettes_per_day",
+    "alcohol_glasses_per_day",
+    "carbonated_beverages_glasses_per_day",
+    "coffee_cups_per_day",
+    "soft_cheese_grams_per_day",
+    "citrus_fruits_per_day",
+    "mfcc_1",
+    "mfcc_2",
+    "mfcc_3",
+    "mfcc_4",
+    "mfcc_5",
+    "mfcc_6",
+    "mfcc_7",
+    "mfcc_8",
+    "mfcc_9",
+    "mfcc_10",
+    "mfcc_11",
+    "mfcc_12",
+    "mfcc_13"
+  ],
+  "categorical_cols": [
+    "gender",
+    "diagnosis",
+    "occupation_status",
+    "smoker",
+    "alcohol_consumption",
+    "carbonated_beverages",
+    "tomatoes",
+    "coffee",
+    "chocolate",
+    "soft_cheese",
+    "citrus_fruits"
+  ],
+  "top_diagnoses": [
+    "hyperkinetic dysphonia",
+    "reflux laryngitis",
+    "hypokinetic dysphonia",
+    "hyperkinetic dysphonia (Prolapse)"
+  ],
+  "sample_rate": 16000,
+  "n_mfcc": 13,
+  "n_fft": 2048,
+  "hop_length": 512
+}

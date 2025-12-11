@@ -1,0 +1,209 @@
+ID,age,gender,diagnosis,vhi_score,rsi_score
+voice001,32,m,hyperkinetic dysphonia,15,5
+voice002,55,m,healthy,17,12
+voice003,34,m,hyperkinetic dysphonia (nodule),42,26
+voice004,28,f,hypokinetic dysphonia,20,9
+voice005,54,f,hypokinetic dysphonia,39,23
+voice005,54,f,hypokinetic dysphonia,39,25
+voice007,41,m,hyperkinetic dysphonia (nodule),24,28
+voice008,51,f,reflux laryngitis,19,15
+voice009,53,f,hyperkinetic dysphonia (nodule),10,15
+voice010,47,f,hypokinetic dysphonia,9,12
+voice011,55,m,reflux laryngitis,31,27
+voice012,56,m,reflux laryngitis,4,3
+voice013,42,f,reflux laryngitis,8,25
+voice014,31,f,reflux laryngitis,11,20
+voice015,55,m,reflux laryngitis,0,29
+voice016,50,f,hyperkinetic dysphonia,19,13
+voice017,56,m,hyperkinetic dysphonia,43,20
+voice018,57,f,hyperkinetic dysphonia,19,26
+voice019,46,f,healthy,45,10
+voice020,53,m,hyperkinetic dysphonia (Reinke's edema),9,22
+voice021,49,f,hyperkinetic dysphonia,25,8
+voice022,53,f,hypokinetic dysphonia,86,20
+voice023,60,f,hyperkinetic dysphonia,13,18
+voice024,38,m,healthy,6,12
+voice025,45,m,healthy,16,1
+voice026,34,m,hypokinetic dysphonia,31,1
+voice027,44,m,reflux laryngitis,0,19
+voice028,51,f,reflux laryngitis,11,20
+voice029,36,m,reflux laryngitis,3,10
+voice030,39,f,reflux laryngitis,57,23
+voice031,58,m,reflux laryngitis,16,21
+voice032,35,m,healthy,16,18
+voice033,52,f,hyperkinetic dysphonia,24,16
+voice034,56,f,healthy,19,16
+voice035,48,m,reflux laryngitis,17,15
+voice036,38,f,hypokinetic dysphonia,8,21
+voice037,56,m,reflux laryngitis,24,12
+voice038,33,m,hyperkinetic dysphonia,17,14
+voice039,44,f,hyperkinetic dysphonia,28,11
+voice040,30,m,healthy,1,25
+voice041,34,m,reflux laryngitis,0,0
+voice042,39,f,reflux laryngitis,53,11
+voice043,38,f,hypokinetic dysphonia,17,41
+voice044,38,f,reflux laryngitis,11,14
+voice045,42,f,healthy,3,20
+voice046,43,f,reflux laryngitis,5,26
+voice047,46,m,reflux laryngitis,3,4
+voice048,49,m,reflux laryngitis,12,5
+voice049,44,f,healthy,4,20
+voice050,41,f,reflux laryngitis,39,3
+voice051,62,f,healthy,2,13
+voice052,34,f,hyperkinetic dysphonia,10,6
+voice053,60,f,reflux laryngitis,20,10
+voice055,46,m,hyperkinetic dysphonia,15,19
+voice055,46,m,hyperkinetic dysphonia,15,10
+voice056,54,f,hypokinetic dysphonia,6,25
+voice057,68,m,reflux laryngitis,11,6
+voice058,26,f,hypokinetic dysphonia,14,5
+voice059,39,f,hyperkinetic dysphonia,10,25
+voice060,39,m,healthy,10,9
+voice061,33,f,healthy,19,12
+voice062,36,m,reflux laryngitis,0,15
+voice063,52,f,reflux laryngitis,1,12
+voice064,39,m,hyperkinetic dysphonia (Cordite),31,0
+voice065,60,f,reflux laryngitis,25,15
+voice066,51,f,reflux laryngitis,12,4
+voice067,51,f,healthy,7,13
+voice068,59,f,hyperkinetic dysphonia,11,12
+voice069,63,m,reflux laryngitis,11,10
+voice070,39,f,healthy,24,0
+voice071,35,f,reflux laryngitis,7,20
+voice072,32,m,hyperkinetic dysphonia,63,11
+voice073,56,f,reflux laryngitis,35,23
+voice074,63,f,reflux laryngitis,5,20
+voice075,30,f,hypokinetic dysphonia,7,19
+voice076,27,m,hyperkinetic dysphonia,18,17
+voice077,42,f,hypokinetic dysphonia,1,0
+voice078,53,f,hyperkinetic dysphonia,14,18
+voice079,52,m,reflux laryngitis,5,15
+voice080,57,f,hyperkinetic dysphonia (Prolapse),40,16
+voice081,31,m,reflux laryngitis,8,5
+voice082,64,m,reflux laryngitis,2,3
+voice083,48,m,reflux laryngitis,2,11
+voice084,48,f,hypokinetic dysphonia,10,7
+voice085,31,f,healthy,11,4
+voice086,27,f,hyperkinetic dysphonia (Polyps),0,14
+voice087,61,f,hypokinetic dysphonia (Vocal fold paralysis),63,20
+voice088,70,f,hypokinetic dysphonia (Spasmodic dysphonia),15,8
+voice089,63,m,hyperkinetic dysphonia,11,20
+voice090,21,f,healthy,0,11
+voice091,55,m,healthy,0,14
+voice092,66,m,healthy,0,18
+voice093,49,f,hypokinetic dysphonia (Vocal fold paralysis),24,13
+voice094,67,f,hypokinetic dysphonia (glottic insufficiency),28,17
+voice095,24,m,healthy,29,0
+voice096,30,f,healthy,3,0
+voice097,26,f,healthy,13,12
+voice098,23,f,healthy,13,18
+voice099,29,m,healthy,28,21
+voice100,24,m,healthy,0,5
+voice101,60,m,healthy,80,10
+voice102,43,f,healthy,67,15
+voice103,30,f,healthy,27,22
+voice104,32,m,healthy,0,21
+voice105,36,f,hyperkinetic dysphonia (Prolapse),31,26
+voice106,21,m,hypokinetic dysphonia,35,13
+voice107,32,m,healthy,22,10
+voice108,23,m,healthy,0,4
+voice109,49,f,healthy,11,14
+voice110,50,m,healthy,5,15
+voice111,36,m,healthy,0,21
+voice112,62,f,hypokinetic dysphonia (Vocal fold paralysis),44,15
+voice113,66,f,hyperkinetic dysphonia (Prolapse),17,10
+voice114,49,m,healthy,13,6
+voice115,35,m,healthy,26,14
+voice116,34,f,hypokinetic dysphonia (Conversion dysphonia),59,5
+voice117,65,f,hyperkinetic dysphonia (Vocal fold prolapse),51,11
+voice118,40,m,hypokinetic dysphonia (Dysphonia by chordal groove),14,13
+voice119,47,f,hyperkinetic dysphonia (polyps),22,0
+voice120,64,m,healthy,22,4
+voice121,38,f,hypokinetic dysphonia (Laryngitis),31,4
+voice122,45,f,hypokinetic dysphonia (Bilateral vocal fold),23,3
+voice123,35,f,healthy,0,3
+voice124,64,f,hypokinetic dysphonia,41,17
+voice125,36,f,healthy,0,11
+voice126,67,f,hyperkinetic dysphonia (Reinke's edema),2,13
+voice127,70,m,reflux laryngitis,3,14
+voice128,45,f,hyperkinetic dysphonia (Prolapse),8,8
+voice129,26,m,hyperkinetic dysphonia (Polyps),14,21
+voice130,58,f,hyperkinetic dysphonia,10,8
+voice131,47,m,hyperkinetic dysphonia,14,9
+voice132,50,m,hyperkinetic dysphonia  (Rigid vocal fold),20,23
+voice133,70,f,reflux laryngitis,44,8
+voice134,45,f,healthy,86,0
+voice135,25,f,hypokinetic dysphonia,86,8
+voice136,43,f,hypokinetic dysphonia (Vocal fold paralysis),104,3
+voice137,42,m,hyperkinetic dysphonia (Polyps),50,9
+voice138,23,f,hyperkinetic dysphonia (Reinke's edema),26,7
+voice139,53,f,healthy,22,11
+voice140,50,m,hypokinetic dysphonia,24,13
+voice141,18,f,hypokinetic dysphonia,26,6
+voice142,26,f,hypokinetic dysphonia (Extraglottic air leak),46,13
+voice143,43,f,hyperkinetic dysphonia (Prolapse),44,11
+voice144,22,f,hypokinetic dysphonia,59,21
+voice145,54,f,hyperkinetic dysphonia (Prolapse),38,19
+voice146,70,m,hyperkinetic dysphonia (Polyps),36,4
+voice147,43,m,hyperkinetic dysphonia (Adduction deficit),47,9
+voice148,70,m,hypokinetic dysphonia (Presbiphonia),32,17
+voice149,35,m,hyperkinetic dysphonia,26,7
+voice150,38,f,hyperkinetic dysphonia,16,10
+voice151,42,f,reflux laryngitis,24,17
+voice152,51,f,hyperkinetic dysphonia (Vocal fold nodules),51,14
+voice153,43,f,hyperkinetic dysphonia (Polyps),69,21
+voice154,46,f,reflux laryngitis,22,0
+voice155,33,f,hyperkinetic dysphonia,34,0
+voice156,47,m,hyperkinetic dysphonia,90,0
+voice157,46,f,hyperkinetic dysphonia (Prolapse),31,0
+voice158,45,m,healthy,0,0
+voice159,47,f,hyperkinetic dysphonia,6,0
+voice160,32,f,hyperkinetic dysphonia,4,0
+voice161,65,m,hypokinetic dysphonia (glottic insufficiency),45,0
+voice162,55,f,hypokinetic dysphonia,71,0
+voice163,44,f,hyperkinetic dysphonia,30,11
+voice164,65,f,hyperkinetic dysphonia,34,1
+voice165,55,m,hypokinetic dysphonia (glottic insufficiency),97,16
+voice166,50,f,hyperkinetic dysphonia,74,19
+voice167,69,m,hyperkinetic dysphonia,41,6
+voice168,58,f,hypokinetic dysphonia,62,0
+voice169,62,f,hyperkinetic dysphonia,47,1
+voice170,58,f,hyperkinetic dysphonia (Vocal fold paralysis),54,5
+voice171,55,f,hypokinetic dysphonia (Glottic insufficiency),57,7
+voice172,70,f,hyperkinetic dysphonia,37,3
+voice173,57,f,hyperkinetic dysphonia,20,0
+voice174,59,m,hypokinetic dysphonia (glottic insufficiency),67,7
+voice175,55,f,hypokinetic dysphonia (Adduction deficit),39,3
+voice176,23,f,healthy,0,6
+voice177,22,f,healthy,0,3
+voice178,20,f,healthy,0,16
+voice179,21,f,healthy,0,14
+voice180,26,f,healthy,0,3
+voice181,29,f,healthy,0,0
+voice182,23,f,healthy,0,0
+voice183,22,f,healthy,0,6
+voice184,23,f,healthy,0,0
+voice185,53,f,hyperkinetic dysphonia (Prolapse),30,0
+voice186,63,m,hyperkinetic dysphonia,28,17
+voice187,49,f,hyperkinetic dysphonia,30,0
+voice188,31,f,hyperkinetic dysphonia,18,9
+voice189,61,f,hypokinetic dysphonia (glottic insufficiency),106,12
+voice190,38,f,hyperkinetic dysphonia,23,21
+voice191,24,f,hyperkinetic dysphonia,0,19
+voice192,22,m,hyperkinetic dysphonia,0,10
+voice193,46,f,hyperkinetic dysphonia,0,36
+voice194,26,f,hyperkinetic dysphonia,0,39
+voice195,23,f,healthy,0,7
+voice196,57,f,healthy,0,22
+voice197,22,f,healthy,0,4
+voice198,32,f,hyperkinetic dysphonia (Prolapse),80,13
+voice199,26,f,hyperkinetic dysphonia (Nodule),40,14
+voice200,57,m,hyperkinetic dysphonia,41,3
+voice201,44,f,hypokinetic dysphonia (glottic insufficiency),65,23
+voice202,27,f,hypokinetic dysphonia,78,14
+voice203,22,f,healthy,0,9
+voice204,59,f,healthy,0,7
+voice205,30,f,hyperkinetic dysphonia (Nodule),62,19
+voice206,22,f,healthy,0,6
+voice207,30,f,healthy,0,26
+voice208,39,f,hyperkinetic dysphonia,32,15
